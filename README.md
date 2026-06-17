@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vamsi 👋
 
-<!--
-**vamsi2106/vamsi2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack AI Engineer
 
-Here are some ideas to get you started:
+I build and ship production AI products end to end — from LLM agents and RAG systems to React and Next.js front-ends to Python and Node back-ends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building AI products at Ridhira Living
+🌱 Exploring LangChain, RAG, vector databases, and applied ML
+💬 Ask me about full-stack development, GenAI agents, and deploying ML
+
+**Tech:** Python · JavaScript · TypeScript · React · Next.js · Node.js · FastAPI · LangChain · OpenAI · Gemini · scikit-learn · Docker · Azure · AWS
+
+**Featured projects**
+
+loan-default-predictor — ML model for loan-default risk, served as a Dockerized FastAPI service
+https://github.com/vamsi2106/loan-default-predictor
+
+ai-document-qa-rag — RAG assistant over documents using LangChain, Chroma, FastAPI and React
+https://github.com/vamsi2106/ai-document-qa-rag
+
+**Connect:** LinkedIn — https://linkedin.com/in/chilakalapudi-nagasai-vamsi · saivamsi1121@gmail.com
